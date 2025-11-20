@@ -1,0 +1,15 @@
+venv/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+env.bak/
+venv.bak/
+.DS_Store
+tmp/
+set_env.prop.sh
+.env
+*.png
